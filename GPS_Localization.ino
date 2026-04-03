@@ -4,8 +4,8 @@
 #include <FirebaseESP32.h>
 
 //  FIREBASE & WIFI CREDENTIALS 
-#define FIREBASE_HOST "gpstracking-2db8a-default-rtdb.firebaseio.com"
-#define FIREBASE_AUTH "AIzaSyA0O6Ilwg8Y6GsyC36VQWVAB2YeMwhtowM"
+#define FIREBASE_HOST "***********"
+#define FIREBASE_AUTH "************"
 
 const char* ssid = "DMTs-WiFi";
 const char* password = "";
